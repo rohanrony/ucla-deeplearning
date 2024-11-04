@@ -15,6 +15,14 @@ The course consists of 5 module:
 
 Copyright: Danylo Vashchilenko, 2019-2024.
 
+
+Projects: 
+Pre-Training: CNN-based AutoEncoder for denoising MNIST images
+Transfer Learning: on EfficientNet for Image classification to identify images with people
+Unsepervised pre-training: Weather Forecasting on WeatherNet using LSTM
+Zero-shot prediction: Fake image detection on FakeNet using GAN: without using caption
+Ensemble modeling: Count signals and vehicles on CarNet using Yolov8x
+
 ### Table of Contents
 1. [AWS SageMaker](#jupyter-on-aws-sagemaker)
 
